@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="16.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <CustomBuild Include="D:\Courses\Rust Tutorials\rust_decompress\target\debug\build\libz-ng-sys-0b4b41b0b197fba0\out\build\CMakeFiles\5f44894ac43cffce6b8c5583d7c986e8\PACKAGE_force.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="CMake Rules">
+      <UniqueIdentifier>{6B6D9248-29F0-3EE9-A4AE-7A9DB9550E9C}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>

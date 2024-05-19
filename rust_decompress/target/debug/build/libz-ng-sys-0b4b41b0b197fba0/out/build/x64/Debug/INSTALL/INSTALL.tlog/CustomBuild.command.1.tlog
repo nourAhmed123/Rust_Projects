@@ -1,0 +1,10 @@
+^D:\COURSES\RUST TUTORIALS\RUST_DECOMPRESS\TARGET\DEBUG\BUILD\LIBZ-NG-SYS-0B4B41B0B197FBA0\OUT\BUILD\CMAKEFILES\5F44894AC43CFFCE6B8C5583D7C986E8\INSTALL_FORCE.RULE
+setlocal
+cd .
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd

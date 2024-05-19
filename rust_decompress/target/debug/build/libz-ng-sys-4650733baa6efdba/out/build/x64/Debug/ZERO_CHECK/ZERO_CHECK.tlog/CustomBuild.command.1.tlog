@@ -1,0 +1,10 @@
+^D:\COURSES\RUST TUTORIALS\RUST_DECOMPRESS\TARGET\DEBUG\BUILD\LIBZ-NG-SYS-4650733BAA6EFDBA\OUT\BUILD\CMAKEFILES\E1AAA50768DD91F64EAEB085E78D04C7\GENERATE.STAMP.RULE
+setlocal
+"C:\Program Files\CMake\bin\cmake.exe" -SC:/Users/anoor/.cargo/registry/src/index.crates.io-6f17d22bba15001f/libz-ng-sys-1.1.15/src/zlib-ng "-BD:/Courses/Rust Tutorials/rust_decompress/target/debug/build/libz-ng-sys-4650733baa6efdba/out/build" --check-stamp-list CMakeFiles/generate.stamp.list --vs-solution-file "D:/Courses/Rust Tutorials/rust_decompress/target/debug/build/libz-ng-sys-4650733baa6efdba/out/build/zlib.sln"
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd

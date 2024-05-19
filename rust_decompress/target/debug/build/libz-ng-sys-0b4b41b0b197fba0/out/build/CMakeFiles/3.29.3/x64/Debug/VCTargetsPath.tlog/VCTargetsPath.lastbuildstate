@@ -1,0 +1,2 @@
+#TargetFrameworkVersion=v4.0:PlatformToolSet=v142:EnableManagedIncrementalBuild=false:VCToolArchitecture=Native64Bit:WindowsTargetPlatformVersion=10.0.19041.0
+Debug|x64|D:\Courses\Rust Tutorials\rust_decompress\target\debug\build\libz-ng-sys-0b4b41b0b197fba0\out\build\CMakeFiles\3.29.3\|

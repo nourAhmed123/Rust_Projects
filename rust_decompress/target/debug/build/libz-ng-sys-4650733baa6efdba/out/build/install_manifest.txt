@@ -1,0 +1,8 @@
+D:/Courses/Rust Tutorials/rust_decompress/target/debug/build/libz-ng-sys-4650733baa6efdba/out/lib/zlibstatic-ngd.lib
+D:/Courses/Rust Tutorials/rust_decompress/target/debug/build/libz-ng-sys-4650733baa6efdba/out/include/zlib-ng.h
+D:/Courses/Rust Tutorials/rust_decompress/target/debug/build/libz-ng-sys-4650733baa6efdba/out/include/zlib_name_mangling-ng.h
+D:/Courses/Rust Tutorials/rust_decompress/target/debug/build/libz-ng-sys-4650733baa6efdba/out/include/zconf-ng.h
+D:/Courses/Rust Tutorials/rust_decompress/target/debug/build/libz-ng-sys-4650733baa6efdba/out/lib/pkgconfig/zlib-ng.pc
+D:/Courses/Rust Tutorials/rust_decompress/target/debug/build/libz-ng-sys-4650733baa6efdba/out/lib/zlibstatic-ngd.lib
+D:/Courses/Rust Tutorials/rust_decompress/target/debug/build/libz-ng-sys-4650733baa6efdba/out/lib/cmake/zlib-ng/zlib-ng.cmake
+D:/Courses/Rust Tutorials/rust_decompress/target/debug/build/libz-ng-sys-4650733baa6efdba/out/lib/cmake/zlib-ng/zlib-ng-debug.cmake
