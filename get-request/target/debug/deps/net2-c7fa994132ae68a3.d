@@ -1,0 +1,12 @@
+D:\Courses\Rust Tutorials\get-request\target\debug\deps\libnet2-c7fa994132ae68a3.rmeta: C:\Users\anoor\.cargo\registry\src\index.crates.io-6f17d22bba15001f\net2-0.2.39\src\lib.rs C:\Users\anoor\.cargo\registry\src\index.crates.io-6f17d22bba15001f\net2-0.2.39\src\tcp.rs C:\Users\anoor\.cargo\registry\src\index.crates.io-6f17d22bba15001f\net2-0.2.39\src\udp.rs C:\Users\anoor\.cargo\registry\src\index.crates.io-6f17d22bba15001f\net2-0.2.39\src\socket.rs C:\Users\anoor\.cargo\registry\src\index.crates.io-6f17d22bba15001f\net2-0.2.39\src\ext.rs C:\Users\anoor\.cargo\registry\src\index.crates.io-6f17d22bba15001f\net2-0.2.39\src\utils.rs C:\Users\anoor\.cargo\registry\src\index.crates.io-6f17d22bba15001f\net2-0.2.39\src\sys\windows\mod.rs C:\Users\anoor\.cargo\registry\src\index.crates.io-6f17d22bba15001f\net2-0.2.39\src\sys\windows\impls.rs
+
+D:\Courses\Rust Tutorials\get-request\target\debug\deps\net2-c7fa994132ae68a3.d: C:\Users\anoor\.cargo\registry\src\index.crates.io-6f17d22bba15001f\net2-0.2.39\src\lib.rs C:\Users\anoor\.cargo\registry\src\index.crates.io-6f17d22bba15001f\net2-0.2.39\src\tcp.rs C:\Users\anoor\.cargo\registry\src\index.crates.io-6f17d22bba15001f\net2-0.2.39\src\udp.rs C:\Users\anoor\.cargo\registry\src\index.crates.io-6f17d22bba15001f\net2-0.2.39\src\socket.rs C:\Users\anoor\.cargo\registry\src\index.crates.io-6f17d22bba15001f\net2-0.2.39\src\ext.rs C:\Users\anoor\.cargo\registry\src\index.crates.io-6f17d22bba15001f\net2-0.2.39\src\utils.rs C:\Users\anoor\.cargo\registry\src\index.crates.io-6f17d22bba15001f\net2-0.2.39\src\sys\windows\mod.rs C:\Users\anoor\.cargo\registry\src\index.crates.io-6f17d22bba15001f\net2-0.2.39\src\sys\windows\impls.rs
+
+C:\Users\anoor\.cargo\registry\src\index.crates.io-6f17d22bba15001f\net2-0.2.39\src\lib.rs:
+C:\Users\anoor\.cargo\registry\src\index.crates.io-6f17d22bba15001f\net2-0.2.39\src\tcp.rs:
+C:\Users\anoor\.cargo\registry\src\index.crates.io-6f17d22bba15001f\net2-0.2.39\src\udp.rs:
+C:\Users\anoor\.cargo\registry\src\index.crates.io-6f17d22bba15001f\net2-0.2.39\src\socket.rs:
+C:\Users\anoor\.cargo\registry\src\index.crates.io-6f17d22bba15001f\net2-0.2.39\src\ext.rs:
+C:\Users\anoor\.cargo\registry\src\index.crates.io-6f17d22bba15001f\net2-0.2.39\src\utils.rs:
+C:\Users\anoor\.cargo\registry\src\index.crates.io-6f17d22bba15001f\net2-0.2.39\src\sys\windows\mod.rs:
+C:\Users\anoor\.cargo\registry\src\index.crates.io-6f17d22bba15001f\net2-0.2.39\src\sys\windows\impls.rs:
