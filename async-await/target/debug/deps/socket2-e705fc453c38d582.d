@@ -1,0 +1,11 @@
+D:\Courses\Rust Tutorials\async-await\target\debug\deps\libsocket2-e705fc453c38d582.rmeta: C:\Users\anoor\.cargo\registry\src\index.crates.io-6f17d22bba15001f\socket2-0.3.19\src\lib.rs C:\Users\anoor\.cargo\registry\src\index.crates.io-6f17d22bba15001f\socket2-0.3.19\src\sockaddr.rs C:\Users\anoor\.cargo\registry\src\index.crates.io-6f17d22bba15001f\socket2-0.3.19\src\socket.rs C:\Users\anoor\.cargo\registry\src\index.crates.io-6f17d22bba15001f\socket2-0.3.19\src\utils.rs C:\Users\anoor\.cargo\registry\src\index.crates.io-6f17d22bba15001f\socket2-0.3.19\src\sys\windows.rs
+
+D:\Courses\Rust Tutorials\async-await\target\debug\deps\libsocket2-e705fc453c38d582.rlib: C:\Users\anoor\.cargo\registry\src\index.crates.io-6f17d22bba15001f\socket2-0.3.19\src\lib.rs C:\Users\anoor\.cargo\registry\src\index.crates.io-6f17d22bba15001f\socket2-0.3.19\src\sockaddr.rs C:\Users\anoor\.cargo\registry\src\index.crates.io-6f17d22bba15001f\socket2-0.3.19\src\socket.rs C:\Users\anoor\.cargo\registry\src\index.crates.io-6f17d22bba15001f\socket2-0.3.19\src\utils.rs C:\Users\anoor\.cargo\registry\src\index.crates.io-6f17d22bba15001f\socket2-0.3.19\src\sys\windows.rs
+
+D:\Courses\Rust Tutorials\async-await\target\debug\deps\socket2-e705fc453c38d582.d: C:\Users\anoor\.cargo\registry\src\index.crates.io-6f17d22bba15001f\socket2-0.3.19\src\lib.rs C:\Users\anoor\.cargo\registry\src\index.crates.io-6f17d22bba15001f\socket2-0.3.19\src\sockaddr.rs C:\Users\anoor\.cargo\registry\src\index.crates.io-6f17d22bba15001f\socket2-0.3.19\src\socket.rs C:\Users\anoor\.cargo\registry\src\index.crates.io-6f17d22bba15001f\socket2-0.3.19\src\utils.rs C:\Users\anoor\.cargo\registry\src\index.crates.io-6f17d22bba15001f\socket2-0.3.19\src\sys\windows.rs
+
+C:\Users\anoor\.cargo\registry\src\index.crates.io-6f17d22bba15001f\socket2-0.3.19\src\lib.rs:
+C:\Users\anoor\.cargo\registry\src\index.crates.io-6f17d22bba15001f\socket2-0.3.19\src\sockaddr.rs:
+C:\Users\anoor\.cargo\registry\src\index.crates.io-6f17d22bba15001f\socket2-0.3.19\src\socket.rs:
+C:\Users\anoor\.cargo\registry\src\index.crates.io-6f17d22bba15001f\socket2-0.3.19\src\utils.rs:
+C:\Users\anoor\.cargo\registry\src\index.crates.io-6f17d22bba15001f\socket2-0.3.19\src\sys\windows.rs:
