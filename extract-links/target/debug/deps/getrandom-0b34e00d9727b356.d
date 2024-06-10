@@ -1,0 +1,11 @@
+D:\Courses\Rust Tutorials\extract-links\target\debug\deps\libgetrandom-0b34e00d9727b356.rmeta: C:\Users\anoor\.cargo\registry\src\index.crates.io-6f17d22bba15001f\getrandom-0.2.15\src/lib.rs C:\Users\anoor\.cargo\registry\src\index.crates.io-6f17d22bba15001f\getrandom-0.2.15\src\error.rs C:\Users\anoor\.cargo\registry\src\index.crates.io-6f17d22bba15001f\getrandom-0.2.15\src\util.rs C:\Users\anoor\.cargo\registry\src\index.crates.io-6f17d22bba15001f\getrandom-0.2.15\src\error_impls.rs C:\Users\anoor\.cargo\registry\src\index.crates.io-6f17d22bba15001f\getrandom-0.2.15\src\windows.rs
+
+D:\Courses\Rust Tutorials\extract-links\target\debug\deps\libgetrandom-0b34e00d9727b356.rlib: C:\Users\anoor\.cargo\registry\src\index.crates.io-6f17d22bba15001f\getrandom-0.2.15\src/lib.rs C:\Users\anoor\.cargo\registry\src\index.crates.io-6f17d22bba15001f\getrandom-0.2.15\src\error.rs C:\Users\anoor\.cargo\registry\src\index.crates.io-6f17d22bba15001f\getrandom-0.2.15\src\util.rs C:\Users\anoor\.cargo\registry\src\index.crates.io-6f17d22bba15001f\getrandom-0.2.15\src\error_impls.rs C:\Users\anoor\.cargo\registry\src\index.crates.io-6f17d22bba15001f\getrandom-0.2.15\src\windows.rs
+
+D:\Courses\Rust Tutorials\extract-links\target\debug\deps\getrandom-0b34e00d9727b356.d: C:\Users\anoor\.cargo\registry\src\index.crates.io-6f17d22bba15001f\getrandom-0.2.15\src/lib.rs C:\Users\anoor\.cargo\registry\src\index.crates.io-6f17d22bba15001f\getrandom-0.2.15\src\error.rs C:\Users\anoor\.cargo\registry\src\index.crates.io-6f17d22bba15001f\getrandom-0.2.15\src\util.rs C:\Users\anoor\.cargo\registry\src\index.crates.io-6f17d22bba15001f\getrandom-0.2.15\src\error_impls.rs C:\Users\anoor\.cargo\registry\src\index.crates.io-6f17d22bba15001f\getrandom-0.2.15\src\windows.rs
+
+C:\Users\anoor\.cargo\registry\src\index.crates.io-6f17d22bba15001f\getrandom-0.2.15\src/lib.rs:
+C:\Users\anoor\.cargo\registry\src\index.crates.io-6f17d22bba15001f\getrandom-0.2.15\src\error.rs:
+C:\Users\anoor\.cargo\registry\src\index.crates.io-6f17d22bba15001f\getrandom-0.2.15\src\util.rs:
+C:\Users\anoor\.cargo\registry\src\index.crates.io-6f17d22bba15001f\getrandom-0.2.15\src\error_impls.rs:
+C:\Users\anoor\.cargo\registry\src\index.crates.io-6f17d22bba15001f\getrandom-0.2.15\src\windows.rs:
