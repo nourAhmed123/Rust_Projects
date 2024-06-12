@@ -1,0 +1,11 @@
+D:\Courses\Rust Tutorials\rust-sqlite\target\debug\deps\libeither-f786a358fa8bba99.rmeta: C:\Users\anoor\.cargo\registry\src\index.crates.io-6f17d22bba15001f\either-1.12.0\src\lib.rs C:\Users\anoor\.cargo\registry\src\index.crates.io-6f17d22bba15001f\either-1.12.0\src\serde_untagged.rs C:\Users\anoor\.cargo\registry\src\index.crates.io-6f17d22bba15001f\either-1.12.0\src\serde_untagged_optional.rs C:\Users\anoor\.cargo\registry\src\index.crates.io-6f17d22bba15001f\either-1.12.0\src\iterator.rs C:\Users\anoor\.cargo\registry\src\index.crates.io-6f17d22bba15001f\either-1.12.0\src\into_either.rs
+
+D:\Courses\Rust Tutorials\rust-sqlite\target\debug\deps\libeither-f786a358fa8bba99.rlib: C:\Users\anoor\.cargo\registry\src\index.crates.io-6f17d22bba15001f\either-1.12.0\src\lib.rs C:\Users\anoor\.cargo\registry\src\index.crates.io-6f17d22bba15001f\either-1.12.0\src\serde_untagged.rs C:\Users\anoor\.cargo\registry\src\index.crates.io-6f17d22bba15001f\either-1.12.0\src\serde_untagged_optional.rs C:\Users\anoor\.cargo\registry\src\index.crates.io-6f17d22bba15001f\either-1.12.0\src\iterator.rs C:\Users\anoor\.cargo\registry\src\index.crates.io-6f17d22bba15001f\either-1.12.0\src\into_either.rs
+
+D:\Courses\Rust Tutorials\rust-sqlite\target\debug\deps\either-f786a358fa8bba99.d: C:\Users\anoor\.cargo\registry\src\index.crates.io-6f17d22bba15001f\either-1.12.0\src\lib.rs C:\Users\anoor\.cargo\registry\src\index.crates.io-6f17d22bba15001f\either-1.12.0\src\serde_untagged.rs C:\Users\anoor\.cargo\registry\src\index.crates.io-6f17d22bba15001f\either-1.12.0\src\serde_untagged_optional.rs C:\Users\anoor\.cargo\registry\src\index.crates.io-6f17d22bba15001f\either-1.12.0\src\iterator.rs C:\Users\anoor\.cargo\registry\src\index.crates.io-6f17d22bba15001f\either-1.12.0\src\into_either.rs
+
+C:\Users\anoor\.cargo\registry\src\index.crates.io-6f17d22bba15001f\either-1.12.0\src\lib.rs:
+C:\Users\anoor\.cargo\registry\src\index.crates.io-6f17d22bba15001f\either-1.12.0\src\serde_untagged.rs:
+C:\Users\anoor\.cargo\registry\src\index.crates.io-6f17d22bba15001f\either-1.12.0\src\serde_untagged_optional.rs:
+C:\Users\anoor\.cargo\registry\src\index.crates.io-6f17d22bba15001f\either-1.12.0\src\iterator.rs:
+C:\Users\anoor\.cargo\registry\src\index.crates.io-6f17d22bba15001f\either-1.12.0\src\into_either.rs:
